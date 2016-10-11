@@ -1,2 +1,2 @@
 # CS231N_2016_Winter
-Assignment
+Without datasets, please run the .sh files to download.
